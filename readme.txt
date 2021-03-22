@@ -1,4 +1,4 @@
-AVR Simple Projects
+AVR Simple Firmwares
 assembly of simple firmware for atmega8 microcontroller
 
 MAKEFILE COMMANDS
